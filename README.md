@@ -1,15 +1,9 @@
 
 <p align="center">
-  <a href="https://anuraghazra.github.io">
-    <img width="600px" alt="Hello, I'm Vinod. I build full stack applications!" src="./assets/github_banner_2.png" />
+  <a href="https://github.com/vinodwagh07">
+    <img width="1200px" alt="Hello, I'm Vinod. I build full stack applications!" src="./assets/github-header-banner (2).png" />
   </a>
 </p>
-
-<br>
-<h3>👋 Hi, I’m Vinod Wagh</h3>
-
-- 🚀 **Full-Stack Developer** specializing in building scalable, user-centric web applications Based in India.
-<br></br>
 
 ## 🧠 About Me
 
